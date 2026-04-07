@@ -1,5 +1,5 @@
 package org;
-
+// Рисует треугольник из *
 import java.util.Scanner;
 
 public class Prog22 {
