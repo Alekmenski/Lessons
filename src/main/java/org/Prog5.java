@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Можно ли закрыть кругом квадратное отверстие
 import static java.lang.Math.*;
 
 public class Prog5 {
