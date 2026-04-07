@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Вывод третьей цифры с конца
 public class Prog2 {
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
