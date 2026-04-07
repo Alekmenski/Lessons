@@ -1,5 +1,5 @@
 package org;
-
+//Показывает доход с вклада
 import java.util.Scanner;
 
 public class ProgBank {
