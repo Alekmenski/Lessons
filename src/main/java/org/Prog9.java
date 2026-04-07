@@ -1,5 +1,5 @@
 package org;
-
+// Вычисление сумму всех цифр в числе
 public class Prog9 {
     public static void main(String[] args) {
         long num = 7893823445L;
