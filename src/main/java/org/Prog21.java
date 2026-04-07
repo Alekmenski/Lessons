@@ -1,5 +1,5 @@
 package org;
-
+//Рисует прямоугольник из *
 import java.util.Scanner;
 
 public class Prog21 {
