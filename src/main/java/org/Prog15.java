@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Считает кол-во цифр в числе
 public class Prog15 {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
