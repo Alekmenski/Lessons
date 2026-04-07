@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// обменник BYN на $
 public class Main {
     public static void main(String[] args) {
         Scanner money = new Scanner(System.in);
