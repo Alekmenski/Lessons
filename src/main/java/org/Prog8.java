@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Решение квадратонго уравнения
 public class Prog8 {
     public static void main (String [] args) {
         Scanner scan = new Scanner(System.in);
