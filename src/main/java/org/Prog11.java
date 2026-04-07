@@ -1,5 +1,5 @@
 package org;
-
+// Выводит второе простое число от 50 до 70
 public class Prog11 {
     public static void main(String[] args) {
         int count = 0;
