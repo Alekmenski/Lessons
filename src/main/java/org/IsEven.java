@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// проверка на четное число
 public class IsEven {
     public static void main() {
         Scanner scan = new Scanner(System.in);
