@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Проверка на последнее число 7
 public class Prog4 {
     public static void main(String [] args) {
         Scanner scan = new Scanner(System.in);
