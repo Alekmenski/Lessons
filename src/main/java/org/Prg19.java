@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Число Фибоначчи
 public class Prg19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
