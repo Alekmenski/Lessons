@@ -1,5 +1,5 @@
 package org;
-
+// Риcует пирамиду из *
 import java.util.Scanner;
 
 public class Prog23 {
