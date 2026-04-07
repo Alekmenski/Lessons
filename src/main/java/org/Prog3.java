@@ -1,5 +1,5 @@
 package org;
-
+// Растояние между точками А и В
 public class Prog3 {
     public static void main (String[] args) {
         int x1 = 3;
