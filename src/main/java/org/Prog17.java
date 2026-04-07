@@ -1,5 +1,5 @@
 package org;
-
+//Вычисляет сумму всех цифр числа
 import java.util.Scanner;
 
 public class Prog17 {
