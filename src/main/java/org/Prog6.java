@@ -1,7 +1,7 @@
 package org;
 
 import java.util.Scanner;
-
+// Вывод плана на день
 public class Prog6 {
    public static void main(String[] args) {
        Scanner scan = new Scanner(System.in);
