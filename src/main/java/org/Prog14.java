@@ -1,5 +1,5 @@
 package org;
-
+// Выводит все четные числа от 1 до 100
 public class Prog14 {
     public static void main (String[] args) {
         for (int i = 1; i<=100; i++) {
