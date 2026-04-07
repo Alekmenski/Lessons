@@ -1,5 +1,5 @@
 package org;
-
+//Числовая пирамида
 import java.util.Scanner;
 
 public class Prog24 {
