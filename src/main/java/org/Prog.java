@@ -1,5 +1,5 @@
 package org;
-
+// Преобразование кол-во секунд в неделях
 public class Prog {
     public static void main(String[] args) {
        int promo = 980000;
