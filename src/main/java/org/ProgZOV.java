@@ -1,5 +1,5 @@
 package org;
-
+// Пишет ZOV в столбец
 public class ProgZOV {
     public static void main(String[] args) {
         int heaght = 5;
