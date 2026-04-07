@@ -1,5 +1,5 @@
 package org;
-
+// Вычисляет кол-во пицц на кол-во людей
 import java.util.Scanner;
 
 public class Prog12 {
