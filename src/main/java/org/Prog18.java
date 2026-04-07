@@ -1,5 +1,5 @@
 package org;
-
+// Записывает число в обратном порядке
 import java.util.Scanner;
 
 public class Prog18 {
