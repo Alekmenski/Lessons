@@ -1,5 +1,5 @@
 package org;
-
+//Выводит таблицу умножения для числа 5
 public class Prog16 {
     public static void main (String[] args) {
         int num = 5;
